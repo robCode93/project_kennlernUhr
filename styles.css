@@ -1,0 +1,35 @@
+/* ########## BASIC ########## */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ########## HEADER ########## */
+.display-center{
+    margin: auto;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+
+
+/* ########## MAIN ########## */
+.mainOutput{
+    height: 200px;
+    background-color: rgb(36, 34, 34);
+    display: flex;
+    justify-content: center;
+}
+
+.dateText{
+    color: #fff;
+    font-size: 3vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.data{
+    margin-top: 50px;
+}
